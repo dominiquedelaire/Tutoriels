@@ -49,5 +49,11 @@ Ici l'interface de Ollama avec une liste de modèles :
 <img width="796" height="523" alt="Capture d’écran, le 2025-09-10 à 22 10 38" src="https://github.com/user-attachments/assets/bf881a10-d61f-4a92-a76c-540ac0f10d8f" />
 <img width="796" height="536" alt="Capture d’écran, le 2025-09-10 à 22 12 04" src="https://github.com/user-attachments/assets/0da56731-3c3c-49cd-995c-da149b7455e3" />
 
+### Pour aller plus loin...
+
+Vous pouvez trouver sur le site de HuggingFace des milliers de modèles que vous pouvez télécharger, modifier, embellir, entraîner :)
+https://huggingface.co/models
+
+
 > Comme d'habitude, Si vous avez des questions, vous pouvez me contacter directement sur [Linkedin](https://www.linkedin.com/in/dominiquedelaire/) ou commenter l'article directement de Linkedin dans les commentaires :)
 > Dominique
