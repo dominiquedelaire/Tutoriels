@@ -1,7 +1,7 @@
 # Tutoriels
 
 ## IA
-### [Avoir ChatGpt en local sur son ordi](https://github.com/dominiquedelaire/Tutoriels/tree/main/IA/Tuto001%20-%20Avoir%20son%20Chatgpt%20en%20local%20sur%20son%20ordi)
+### [Avoir son ChatGpt en local sur son ordi](https://github.com/dominiquedelaire/Tutoriels/tree/main/IA/Tuto001%20-%20Avoir%20son%20Chatgpt%20en%20local%20sur%20son%20ordi)
 
 ## PowerApps model driven
 ### [Ajouter une vue Kanban à une app Powerapps](https://github.com/nuage365/Tutoriels/blob/main/PowerApps%20model%20driven/Ajouter%20un%20Kanban%20%C3%A0%20une%20vue%20PowerApps.md)
