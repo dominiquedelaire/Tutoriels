@@ -55,7 +55,7 @@ Ici l'interface de Ollama avec une liste de modèles :
 Vous pouvez trouver sur le site de Hugging Face, des milliers de modèles que vous pouvez télécharger, modifier, embellir, entraîner :)
 <a href="https://huggingface.co/models" target="_blank">Visiter le site Hugging Face</a>
 
-<br><br>
+<br>
 
 > Comme d'habitude, Si vous avez des questions, vous pouvez me contacter directement sur [Linkedin](https://www.linkedin.com/in/dominiquedelaire/) ou commenter l'article directement de Linkedin dans les commentaires :)
 > Dominique
