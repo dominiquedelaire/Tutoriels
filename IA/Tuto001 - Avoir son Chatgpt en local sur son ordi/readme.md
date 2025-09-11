@@ -23,7 +23,8 @@ Un des modèles intéressants de ChatGpt, l'équivalent de GPTo4 est **le modèl
 
 Si vous n'avez pas au moins une gpu de 80Go, vous pouvez opter pour un modèle plus light très puissant aussi le **GPT-OSS-20B**
 
-Dans Ollama, pour installer un modèle il suffit de taper la commande suivante : **ollama pull nomdumodèle** Exemple : **ollama pull gpt-oss:120b** ou **ollama pull gpt-oss:20b** 
+Lancer un terminal sous windows, macos ou linux.   
+Puis dans Ollama, pour installer un modèle il suffit de taper la commande suivante : **ollama pull nomdumodèle** Exemple : **ollama pull gpt-oss:120b** ou **ollama pull gpt-oss:20b** 
 
 <img width="1101" height="155" alt="Capture d’écran, le 2025-09-10 à 20 59 32" src="https://github.com/user-attachments/assets/6b2db618-c08b-41cc-81ae-0c7a0e632339" />   
 
