@@ -32,7 +32,7 @@ Dans Ollama, pour installer un modèle il suffit de taper la commande suivante :
 
 ### Troisième étape : On vérifie que le modèle est bien installé
 
-Pour cela, on tape la commande **Ollama list**
+Pour cela, on tape la commande **Ollama list** On voit bien que le modèle d'OpenAI a bien été installé.
 
 <img width="940" height="184" alt="Capture d’écran, le 2025-09-10 à 21 50 08" src="https://github.com/user-attachments/assets/1eb57319-95c2-4840-83ca-4da1c7c011b4" />
 
@@ -48,3 +48,5 @@ Ici l'interface de Ollama avec une liste de modèles :
 <img width="796" height="600" alt="Capture d’écran, le 2025-09-10 à 21 58 13" src="https://github.com/user-attachments/assets/b80987ee-12c7-432a-867f-55c6592137dd" />
 <img width="796" height="523" alt="Capture d’écran, le 2025-09-10 à 22 10 38" src="https://github.com/user-attachments/assets/bf881a10-d61f-4a92-a76c-540ac0f10d8f" />
 
+> Comme d'habitude, Si vous avez des questions, vous pouvez me contacter directement sur [Linkedin](https://www.linkedin.com/in/dominiquedelaire/) ou commenter l'article directement de Linkedin dans les commentaires :)
+> Dominique
