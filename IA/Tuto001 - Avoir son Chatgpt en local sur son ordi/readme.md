@@ -25,8 +25,9 @@ Si vous n'avez pas au moins une gpu de 80Go, vous pouvez opter pour un modèle p
 
 Dans Ollama, pour installer un modèle il suffit de taper la commande suivante : **ollama pull nomdumodèle** Exemple : **ollama pull gpt-oss:120b** ou **ollama pull gpt-oss:20b** 
 
-<img width="1101" height="155" alt="Capture d’écran, le 2025-09-10 à 20 59 32" src="https://github.com/user-attachments/assets/6b2db618-c08b-41cc-81ae-0c7a0e632339" />
-**Le modèle 120b fait environ 65Gb sur le disque.**   
+<img width="1101" height="155" alt="Capture d’écran, le 2025-09-10 à 20 59 32" src="https://github.com/user-attachments/assets/6b2db618-c08b-41cc-81ae-0c7a0e632339" />   
+
+**Le modèle 120b fait environ 65Gb sur le disque.**
 <img width="1101" height="159" alt="Capture d’écran, le 2025-09-10 à 21 28 27" src="https://github.com/user-attachments/assets/b7216425-ec71-43b3-8c49-e6273e2dde26" />
 
 
