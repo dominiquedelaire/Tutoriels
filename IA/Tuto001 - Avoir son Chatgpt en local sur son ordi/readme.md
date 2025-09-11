@@ -1,8 +1,8 @@
 # Tutoriel "Avoir son ChatGpt en local sur son ordi"
 > Version 2025-09-10, Auteur : Dominique Delaire
-> 
+>
 
-<img width="796" height="536" alt="Capture d’écran, le 2025-09-10 à 22 12 04" src="https://github.com/user-attachments/assets/0da56731-3c3c-49cd-995c-da149b7455e3" />
+<img width="960" height="540" alt="Vignettes Tutoriels GitHub" src="https://github.com/user-attachments/assets/9e185841-cab6-4f86-97e5-20c6efbaf66c" />
 
 **Dans cet exemple, nous allons voir pas à pas comment faire une app style chatgpt avec n'importe quel modèle du marché sans coder une seule ligne. Un autre tuto vous montrera comment ajouter des données à un modèle existant**
 
@@ -47,6 +47,7 @@ Ici l'interface de Ollama avec une liste de modèles :
 **Je choisis ici le modèle de OpenAI que j'ai précédemment installé et je lui pose une question comme si j'étais dans Chatgpt :**
 <img width="796" height="600" alt="Capture d’écran, le 2025-09-10 à 21 58 13" src="https://github.com/user-attachments/assets/b80987ee-12c7-432a-867f-55c6592137dd" />
 <img width="796" height="523" alt="Capture d’écran, le 2025-09-10 à 22 10 38" src="https://github.com/user-attachments/assets/bf881a10-d61f-4a92-a76c-540ac0f10d8f" />
+<img width="796" height="536" alt="Capture d’écran, le 2025-09-10 à 22 12 04" src="https://github.com/user-attachments/assets/0da56731-3c3c-49cd-995c-da149b7455e3" />
 
 > Comme d'habitude, Si vous avez des questions, vous pouvez me contacter directement sur [Linkedin](https://www.linkedin.com/in/dominiquedelaire/) ou commenter l'article directement de Linkedin dans les commentaires :)
 > Dominique
