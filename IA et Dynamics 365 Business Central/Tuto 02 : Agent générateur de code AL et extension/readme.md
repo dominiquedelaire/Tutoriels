@@ -4,7 +4,7 @@ C'est la première version faite en novembre 2023 pour recherche et développeme
 
 L'agent final avec un modèle spécifique qui a pris environ 7 mois d'entraînement a été vendu à un partenaire Microsoft aux états unis.
 
-'''python
+```python
 #!/usr/bin/env python3
 """
 Application Web Streamlit pour la génération automatique de code AL 
@@ -5835,4 +5835,4 @@ Table: VehicleAssignment
 if __name__ == "__main__":
     main()
 
-'''
+```
