@@ -3,7 +3,10 @@
 ## IA
 ### [Avoir son ChatGpt en local sur son ordi](https://github.com/dominiquedelaire/Tutoriels/tree/main/IA/Tuto001%20-%20Avoir%20son%20Chatgpt%20en%20local%20sur%20son%20ordi)
 
-## PowerApps model driven
+## Dynamics 365 Business Central
+### [Agent IA Générateur de code AL et Extensions](https://github.com/dominiquedelaire/Tutoriels/tree/main/IA%20et%20Dynamics%20365%20Business%20Central/Tuto%2002%20%3A%20Agent%20g%C3%A9n%C3%A9rateur%20de%20code%20AL%20et%20extension)
+
+## PowerApps model driven / Dynamics 365 Sales
 ### [Ajouter une vue Kanban à une app Powerapps](https://github.com/nuage365/Tutoriels/blob/main/PowerApps%20model%20driven/Ajouter%20un%20Kanban%20%C3%A0%20une%20vue%20PowerApps.md)
 
 ## ChatGPT
