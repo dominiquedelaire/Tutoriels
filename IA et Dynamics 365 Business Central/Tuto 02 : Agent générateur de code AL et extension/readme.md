@@ -1,8 +1,10 @@
 **Ceci est un code source généré par ShellbotsOS Fin 2023 permettant de générer du code AL à partir d'une spécification.**
 
-C'est la première version faite en novembre 2023 pour recherche et développement avec Business Central. Cela pourra vous donner des idées pour concevoir d'autres outils pour améliorer la productivité pour BC. 
+**C'est la première version faite en novembre 2023 pour recherche et développement avec Business Central. Cela pourra vous donner des idées pour concevoir d'autres outils pour améliorer la productivité pour BC.**
 
-L'agent final avec un modèle spécifique qui a pris environ 7 mois d'entraînement a été vendu à un partenaire Microsoft aux états unis.
+L'agent final avec un modèle spécifique qui a pris environ 7 mois d'entraînement a été vendu à un partenaire Microsoft aux Etats unis et comprenait 6 agents spécifiques pour améliorer les performances et le résultat. Un agent spécifique compiler le code et l'extension en ligne de commande avec alc , pour compiler des projets al via les extensions visual studio code.
+
+Voici le code de la première version en Python et streamlit. Pour exécuter le code, il faut installer les différents modules import et ensuite faire streamlit run codesource.py pour lancer l'interface web local. Cette première version était meilleure avec des specs en anglais.
 
 ```python
 #!/usr/bin/env python3
