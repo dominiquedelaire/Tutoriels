@@ -1,3 +1,6 @@
+
+<img width="960" height="540" alt="BC ia 1" src="https://github.com/user-attachments/assets/dc99b751-e960-4082-a38a-2c33a8b5ff24" />
+
 **Ceci est un code source généré par ShellbotsOS Fin 2023 permettant de générer du code AL à partir d'une spécification.**
 
 **C'est la première version faite en novembre 2023 pour recherche et développement avec Business Central. Cela pourra vous donner des idées pour concevoir d'autres outils pour améliorer la productivité pour BC.**
