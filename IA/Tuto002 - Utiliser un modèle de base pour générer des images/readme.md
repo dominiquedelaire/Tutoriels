@@ -23,6 +23,7 @@ Dans Shellbots, nous pouvons ajouter et créer des modèles d'IA à partir de pl
 * Un modèle d'IA dans le contexte d'AiFood définit une ou plusieurs fonctions du service d'IA.
 * Vous pouvez créer autant de modèles que vous le souhaitez et les associer à des modèles de ML pour accroître la pertinence du résultat incluant des modèles locaux.
 * Exemple très simple de modèle d'IA de base avec Stability sans paramètres spécifiques :
+* Pour générer le même résultat de base, créer un code python en supprimant la ligne 1 de ce code, remplacer à la ligne 15 par votre clé api stability et à la ligne 22 votre prompt ou variable correspondant à votre prompt.
 ![exemplemodelai](https://github.com/user-attachments/assets/5bc28b38-1d83-415a-a5d7-b43883affbb6)
 
 **Deuxième exemple :**
@@ -35,4 +36,6 @@ Dans Shellbots, nous pouvons ajouter et créer des modèles d'IA à partir de pl
 https://www.youtube.com/watch?v=TRcAd0secBo
 ![videoservice1demo](https://github.com/user-attachments/assets/fe1cc211-8a35-4ce5-9d7d-6c04e2833767)
 
-
+   
+> Comme d'habitude, Si vous avez des questions, vous pouvez me contacter directement sur [Linkedin](https://www.linkedin.com/in/dominiquedelaire/) ou commenter l'article directement de Linkedin dans les commentaires :)
+> Dominique
