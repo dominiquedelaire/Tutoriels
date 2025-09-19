@@ -66,3 +66,10 @@ Et le navigateur par défaut va s'ouvrir pour afficher l'interface de connexion 
 ![Capture d’écran, le 2024-08-31 à 21 13 45](https://github.com/user-attachments/assets/b57293a8-1c20-4467-887f-899c1280b46f)
 
 **Dans la partie 2, nous traiterons de la préparation, l'analyse et la classification des données et des images et l'entraînement avec Dataiku et le parallèle avec Pytorch !**
+
+
+
+<br>
+
+> Comme d'habitude, Si vous avez des questions, vous pouvez me contacter directement sur [Linkedin](https://www.linkedin.com/in/dominiquedelaire/) ou commenter l'article directement de Linkedin dans les commentaires :)
+> Dominique
