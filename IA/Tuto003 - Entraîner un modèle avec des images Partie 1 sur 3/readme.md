@@ -12,9 +12,7 @@ Dans la partie 2, nous montrerons comment intégrer efficacement Dataiku pour la
 
 Dans la partie 3, enfin, nous démontrerons comment ce modèle peut être intégré dans Shellbots pour offrir un outil précieux aux médecins, dermatologues et patients.
 
-Notre solution ne vise pas seulement à automatiser la détection, mais également à fournir un soutien décisionnel aux professionnels de santé, augmentant ainsi les chances de détection précoce et améliorant les résultats cliniques. 
-
-La solution peut être adaptée à vos besoins cliniques.
+Notre solution ne vise pas seulement à automatiser la détection, mais également à fournir un soutien décisionnel aux professionnels de santé, augmentant ainsi les chances de détection précoce et améliorant les résultats cliniques. La solution peut être adaptée aux besoins cliniques des spécialistes.
 
 Bien sûr à des fins de formation, nous allons simplifier un peu le tutoriel, mais vous allez pouvoir découvrir comment les technologies de l'IA peuvent transformer le domaine médical, offrant des solutions innovantes et accessibles pour lutter contre l'une des menaces les plus graves pour la santé humaine. 
 
