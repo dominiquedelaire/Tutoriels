@@ -37,7 +37,8 @@ Pour simplifier le tutoriel, nous utiliserons ici des données de différentes s
 
 Voici un **exemple de la base de données ISIC :**
 
-![Capture d’écran, le 2024-08-31 à 17 40 13](https://github.com/user-attachments/assets/1875627b-24ff-405e-9457-df4852bab195)
+![Dermabots2](https://github.com/user-attachments/assets/b9c58420-ae07-4a69-8a81-7e7d92c1258f)
+
 
 et la **base données PH2** qui contient un outil de visualisation en matlab et où l'on peut télécharger les images et leur classification respective :
 https://www.fc.up.pt/addi/ph2%20database.html
