@@ -56,16 +56,17 @@ La prochaine étape va être de trier et de classifier les données dans un nouv
 Avant de lancer Dataiku, voici les principales fonctions de Dataiku. 
 **Pour cela, nous lui avons posé la question suivante : Qu'es ce que Dataiku ? :)**
 
-![dermabots2](https://github.com/user-attachments/assets/a3ea87a6-ea4e-47ad-be3a-d8af765e8077)
+![dermabots3](https://github.com/user-attachments/assets/d1bd9913-75df-4488-aaa2-618d5fd3fe4b)
 
 Maintenant, pour lancer Dataiku, il suffit de taper la commande **dataiku**
 
-https://github.com/user-attachments/assets/d4abdfe1-6879-4fba-9e6c-81d041254401)
-![dermabots3](https://github.com/user-attachments/assets/d1bd9913-75df-4488-aaa2-618d5fd3fe4b)
+![dermabots4](https://github.com/user-attachments/assets/a681d9b0-3973-452e-87aa-4ac1a302e1ee)
+
 
 Et le navigateur par défaut va s'ouvrir pour afficher l'interface de connexion de Dataiku
 
-![Capture d’écran, le 2024-08-31 à 21 13 45](https://github.com/user-attachments/assets/b57293a8-1c20-4467-887f-899c1280b46f)
+![dermabots5](https://github.com/user-attachments/assets/d022ff8b-b74f-4d3e-92a9-74ed03a26610)
+
 
 **Dans la partie 2, nous traiterons de la préparation, l'analyse et la classification des données et des images et l'entraînement avec Dataiku et le parallèle avec Pytorch !**
 
