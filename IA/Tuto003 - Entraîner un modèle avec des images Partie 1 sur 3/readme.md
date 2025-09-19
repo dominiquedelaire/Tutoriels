@@ -25,7 +25,8 @@ Un **contexte** est une **sorte de projet** Shellbots où on entrepose et **gèr
 
 Puis pour **changer de contexte et travailler sur celui-ci** dans Shellbots, il suffit d'utiliser la **commande "usecontext"** et de choisir son contexte spécifique.
 
-![Dermabots1](https://github.com/user-attachments/assets/d6b27b9e-b621-4591-a268-e28d532b9c6a)
+https://github.com/user-attachments/assets/d6b27b9e-b621-4591-a268-e28d532b9c6a)
+![Dermabots1](https://github.com/user-attachments/assets/d50d10aa-48a6-4aaa-88c2-870e371c02af)
 
 
 ## Données de référence représentant des grains de beauté bénins ou malins
@@ -55,11 +56,12 @@ La prochaine étape va être de trier et de classifier les données dans un nouv
 Avant de lancer Dataiku, voici les principales fonctions de Dataiku. 
 **Pour cela, nous lui avons posé la question suivante : Qu'es ce que Dataiku ? :)**
 
-![dermabots2](https://github.com/user-attachments/assets/a797183d-4bbe-4053-863f-e3dd3bafff5e)
+![dermabots2](https://github.com/user-attachments/assets/a3ea87a6-ea4e-47ad-be3a-d8af765e8077)
 
 Maintenant, pour lancer Dataiku, il suffit de taper la commande **dataiku**
 
-![dermabots3](https://github.com/user-attachments/assets/d4abdfe1-6879-4fba-9e6c-81d041254401)
+https://github.com/user-attachments/assets/d4abdfe1-6879-4fba-9e6c-81d041254401)
+![dermabots3](https://github.com/user-attachments/assets/d1bd9913-75df-4488-aaa2-618d5fd3fe4b)
 
 Et le navigateur par défaut va s'ouvrir pour afficher l'interface de connexion de Dataiku
 
