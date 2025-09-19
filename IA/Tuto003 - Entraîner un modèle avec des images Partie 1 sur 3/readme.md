@@ -25,7 +25,6 @@ Un **contexte** est une **sorte de projet** Shellbots où on entrepose et **gèr
 
 Puis pour **changer de contexte et travailler sur celui-ci** dans Shellbots, il suffit d'utiliser la **commande "usecontext"** et de choisir son contexte spécifique.
 
-https://github.com/user-attachments/assets/d6b27b9e-b621-4591-a268-e28d532b9c6a)
 ![Dermabots1](https://github.com/user-attachments/assets/d50d10aa-48a6-4aaa-88c2-870e371c02af)
 
 
