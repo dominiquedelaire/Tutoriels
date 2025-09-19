@@ -16,7 +16,6 @@ Notre solution ne vise pas seulement à automatiser la détection, mais égaleme
 
 Bien sûr à des fins de formation, nous allons simplifier un peu le tutoriel, mais vous allez pouvoir découvrir comment les technologies de l'IA peuvent transformer le domaine médical, offrant des solutions innovantes et accessibles pour lutter contre l'une des menaces les plus graves pour la santé humaine. 
 
-L'IA ce n'est pas simplement de l'IA générative et ce tutoriel se veut une initiation pour entraîner un modèle simplement ici avec nos exemples.
 
 ## Création d'un contexte dans Shellbots pour accueillir les données et images d'entraînement avec Dataiku
 
