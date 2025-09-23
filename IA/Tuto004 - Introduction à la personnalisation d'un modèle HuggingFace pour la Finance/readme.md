@@ -1,7 +1,11 @@
 # Introduction à la personnalisation d'un modèle Hugging Face pour la Finance
+> Version 2025.09.22.1, Auteur : Dominique Delaire, Neurones Solutions Inc.
+
+![imgintro](https://github.com/user-attachments/assets/6eb81051-ab9d-4ea2-8fd2-adfd79d6452d)
+
 
 L'objectif de cette introduction est de montrer comment **partir d’un modèle open source Hugging Face** et le spécialiser pour des cas financiers (analyse de sentiments, classification de documents comptables, prévisions, etc.).
-
+La deuxième partie montrera un exemple concret de détection des anomalies dans des transactions comptables et financières.
 
 ## Pourquoi Hugging Face pour la Finance ?
 
@@ -123,4 +127,7 @@ print(qa.run(query))
 - [LangChain Documentation](https://python.langchain.com)  
 - [ChromaDB](https://www.trychroma.com/)  
 
+<br>
 
+> Comme d'habitude, Si vous avez des questions, vous pouvez me contacter directement sur [Linkedin](https://www.linkedin.com/in/dominiquedelaire/) ou commenter l'article directement de Linkedin dans les commentaires :)
+> Dominique
