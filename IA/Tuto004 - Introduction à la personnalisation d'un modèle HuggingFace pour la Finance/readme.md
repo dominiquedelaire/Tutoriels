@@ -4,7 +4,8 @@
 ![imgintro](https://github.com/user-attachments/assets/6eb81051-ab9d-4ea2-8fd2-adfd79d6452d)
 
 
-L'objectif de cette introduction est de montrer comment **partir d’un modèle open source Hugging Face** et le spécialiser pour des cas financiers (analyse de sentiments, classification de documents comptables, prévisions, etc.).
+L'objectif de cette introduction est de montrer comment **partir d’un modèle open source Hugging Face** et le spécialiser pour des cas financiers (analyse de sentiments, classification de documents comptables, prévisions, etc.).   
+
 La deuxième partie montrera un exemple concret de détection des anomalies dans des transactions comptables et financières.
 
 ## Pourquoi Hugging Face pour la Finance ?
