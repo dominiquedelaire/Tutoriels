@@ -25,7 +25,7 @@ En finance, ces modèles peuvent servir à :
 ## Choisir un modèle de base
 
 Deux approches sont possibles :
-- **Modèles financiers spécialisés** déjà présents sur Hugging Face (ex. [FinBERT](https://huggingface.co/yiyanghkust/finbert-tone))
+- **Modèles financiers spécialisés** déjà présents sur Hugging Face (ex. [FinBERT](https://huggingface.co/yiyanghkust/finbert-tone), TheFinAI / FinMA-7B-full, FinText,Ark series (Ark I, Ark II))
 - **Modèles généralistes** (LLaMA, Mistral, Falcon) à adapter via fine-tuning ou RAG
 
 Exemple : **FinBERT** est optimisé pour analyser le ton (positif, neutre, négatif) de phrases financières.
