@@ -112,7 +112,8 @@ print(qa.run(query))
 
 - Hugging Face permet d'avoir une **base open source puissante**.  
 - La personnalisation (fine-tuning ou RAG) transforme un modèle générique en **assistant financier spécialisé**.  
-- Future direction : combiner avec des agents (CrewAI, LangChain, Shellbots LedgerAI) pour automatiser des processus complets.  
+- Future direction : combiner avec des agents (CrewAI, LangChain, Shellbots LedgerAI) pour automatiser des processus complets.
+- Le prochain tutoriel présentera un exemple concret sur la détection d'anomalies dans les transactions comptables et financières.
 
 
 ## Ressources utiles
