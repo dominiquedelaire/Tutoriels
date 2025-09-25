@@ -1,9 +1,13 @@
 # Tutoriel Ajouter un composant Kanban dans une vue PowerApps
-> Version 2024.06.28, Auteur : Dominique Delaire
-> 
+> Version 2025.09.21, Auteur : Dominique Delaire
+>
+![intro](https://github.com/user-attachments/assets/26ee9b62-9db1-4516-80aa-e3584d7fda0f)
 ![Capture d’écran, le 2023-10-07 à 14 29 07](https://github.com/nuage365/Tutoriels/assets/102873102/18dd8668-0cb7-4c55-b958-b5224eb72815)
 
-Dans cet exemple, nous allons créer une nouvelle table Dataverse qui servira d'activités et de tâches à une table Dataverse nommée "Entités" qui gère des contacts, entreprises, fournisseurs, ...
+
+
+Dans cet exemple, nous allons créer
+ une nouvelle table Dataverse qui servira d'activités et de tâches à une table Dataverse nommée "Entités" qui gère des contacts, entreprises, fournisseurs, ...
 
 La table des activités servira pour suivre des tâches, évènements, activités, rdv en lien avec une "Entité".
 
@@ -146,8 +150,8 @@ On peut ajuster certains éléments du Kanban lorsque nous sommes dans la défin
 
 ![Capture d’écran, le 2023-10-07 à 14 31 14](https://github.com/nuage365/Tutoriels/assets/102873102/743c2e2f-dfa7-46c7-a311-d2ede54fcfa7)
 
-> Comme d'habitude, Si vous avez des questions ou un projet, vous pouvez me contacter sur [Linkedin](https://www.linkedin.com/in/dominiquedelaire/)
-> Notre équipe sénior d'une vingtaine de consultants est là pour vous aider !
+> Comme d'habitude, Si vous avez des questions ou besoin d'un consultant PowerApps / Dynamics, vous pouvez me contacter sur [Linkedin](https://www.linkedin.com/in/dominiquedelaire/)
+> 
 > Dominique
 
 
